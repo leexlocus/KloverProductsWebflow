@@ -1,0 +1,42 @@
+[
+  {
+    "path": "/",
+    "score": 0.8,
+    "performance": 0.35,
+    "accessibility": 0.95,
+    "best-practices": 0.92,
+    "seo": 0.97
+  },
+  {
+    "path": "/klear-shot",
+    "score": 0.86,
+    "performance": 0.56,
+    "accessibility": 0.96,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/klover-mik",
+    "score": 0.73,
+    "performance": 0.33,
+    "accessibility": 0.96,
+    "best-practices": 0.75,
+    "seo": 0.89
+  },
+  {
+    "path": "/klovermik-stealth",
+    "score": 0.87,
+    "performance": 0.59,
+    "accessibility": 0.95,
+    "best-practices": 0.92,
+    "seo": 1
+  },
+  {
+    "path": "/sound-shark",
+    "score": 0.93,
+    "performance": 0.89,
+    "accessibility": 0.95,
+    "best-practices": 0.92,
+    "seo": 0.97
+  }
+]
